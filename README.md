@@ -27,11 +27,11 @@
 | Файл | Справочник |
 |---|---|
 | `files/ai-privacy-1.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
-| `files/ai-privacy-2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
-| `files/ai-privacy-3.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
-| `files/ai-privacy-4.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
-| `files/ai-privacy-5.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
-| `files/ai-privacy-6.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-2-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-3-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-4-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-5-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-6-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
 | `files/claude-skills.pdf` | Claude Skills — 142 сценария |
 | `files/claude-connectors.pdf` | Claude Connectors — 100 интеграций |
 | `files/perplexity-1.pdf` | Perplexity — Skills и Connectors |
