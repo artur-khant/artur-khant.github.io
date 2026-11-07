@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+/* Дизайн 3 — Минимализм в стиле Apple */
+
+body,.t-body{background:#ffffff}
+.ah{--ink:#1d1d1f;--ink-2:#1d1d1f;--paper:#ffffff;--card:#f5f5f7;--line:#d2d2d7;--muted:#6e6e73;
+  --accent:#0071e3;--accent-ink:#0066cc;--accent-soft:#e8e8ed;--ok:#1b7f3b;
+  --hdr-bg:rgba(255,255,255,.78);--dark:#000000;--dark-2:#1d1d1f;--on-dark:#f5f5f7;--on-dark-muted:#a1a1a6;--on-dark-faint:#86868b;--on-dark-accent:#2997ff;--dark-line:#424245;
+  --radius:24px;--sans:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Helvetica Neue',Arial,sans-serif;
+  --mono:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Helvetica Neue',Arial,sans-serif;
+  font-size:17px;line-height:1.47;letter-spacing:-.011em}
+.ah h1{font-size:clamp(40px,6vw,72px);line-height:1.04;letter-spacing:-.035em;font-weight:700}
+.ah h2{font-size:clamp(30px,4vw,48px);line-height:1.08;letter-spacing:-.03em;font-weight:700}
+.ah h3{font-weight:600;letter-spacing:-.02em}
+.ah .hero h1 em{background:linear-gradient(90deg,#0071e3 0%,#7b4dff 55%,#c2399b 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.ah .kicker{font-family:var(--sans);font-size:17px;letter-spacing:-.01em;text-transform:none;font-weight:600;color:#bf4800;margin-bottom:8px}
+.ah .lead{color:var(--muted);font-size:clamp(19px,1.9vw,24px);line-height:1.35;letter-spacing:-.015em}
+.ah .sub{font-size:19px;line-height:1.4}
+.ah .btn{border:0;font-weight:500;font-size:17px;padding:13px 24px;letter-spacing:-.01em}
+.ah .btn:hover{transform:none}
+.ah .btn.primary,.ah .btn.amber{background:var(--accent);color:#fff}
+.ah .btn.primary:hover,.ah .btn.amber:hover{background:#0077ed}
+.ah .btn.ghost{background:transparent;color:var(--accent-ink);box-shadow:inset 0 0 0 1px var(--accent)}
+.ah .btn.ghost:hover{background:var(--accent);color:#fff}
+.ah .link{border-bottom:0;color:var(--accent-ink);font-weight:500}
+.ah .chip{background:#fff;color:var(--ink);font-weight:500;box-shadow:inset 0 0 0 1px var(--line)}
+.ah .stamp{font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:13px;font-weight:500;border:0;border-radius:999px;background:#e3f4e8;padding:4px 10px}
+.ah .stamp.plain{background:#f0f0f2}
+.ah.ah-header{border-bottom:0;box-shadow:0 1px 0 rgba(0,0,0,.08)}
+.ah .hdr{height:56px}
+.ah-spacer{height:56px}
+.ah .logo{font-weight:700;font-size:18px}
+.ah .logo i{font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:13px;font-weight:400}
+.ah .logo b{color:var(--muted)}
+.ah .nav a{font-weight:400;font-size:14px;color:var(--ink);opacity:.85}
+.ah .nav a:hover{background:transparent;opacity:1}
+.ah .nav a.on{background:transparent;color:var(--ink);font-weight:600;opacity:1}
+.ah .nav a.tg{border:0;background:var(--accent);color:#fff;opacity:1;padding:6px 14px;margin-left:6px}
+.ah .menu summary{border:0;background:var(--card)}
+.ah .menu .drop{top:56px}
+.ah .hero{padding:80px 0 64px}
+.ah .photo img,.ah .pic img{border-radius:32px;box-shadow:0 40px 80px -40px rgba(0,0,0,.35)}
+.ah .photo .badge{border:0;border-radius:18px;background:rgba(255,255,255,.82);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);box-shadow:0 10px 40px -10px rgba(0,0,0,.25)}
+.ah .photo .badge span{font-family:var(--sans)}
+.ah .stats{border:0;background:var(--card);border-radius:28px;padding:0 12px}
+.ah .stat{padding:30px 24px}
+.ah .stat+.stat{border-left:0}
+.ah .stat b{font-size:clamp(34px,4vw,52px);letter-spacing:-.04em}
+@media (max-width:720px){.ah .stat:nth-child(n+3){border-top:0}}
+.ah .card{border:0;padding:30px}
+.ah a.card:hover{transform:scale(1.015);box-shadow:0 20px 50px -24px rgba(0,0,0,.28);border-color:transparent}
+.ah .rub .count{font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:14px;font-weight:600;color:#bf4800}
+.ah .rub .arrow{color:var(--accent-ink);font-weight:500}
+.ah .step{border-top:0;padding-top:0}
+.ah .step .n{font-family:var(--sans);font-size:44px;font-weight:700;letter-spacing:-.04em;color:#d2d2d7;display:block;line-height:1}
+.ah .panel{border:0;background:var(--card);border-radius:30px;padding:40px}
+.ah .panel li::before{content:"•";color:var(--muted)}
+.ah .band{border-radius:32px}
+.ah .band .btn.ghost{color:#2997ff;box-shadow:inset 0 0 0 1px #2997ff;background:transparent}
+.ah .band .btn.ghost:hover{background:#2997ff;color:#fff}
+.ah .filters button{border:0;background:var(--card);font-weight:500}
+.ah .filters button.on{background:var(--ink);color:#fff}
+.ah .filters input{border:0;background:var(--card)}
+.ah .filters input:focus{box-shadow:0 0 0 3px rgba(0,113,227,.35)}
+.ah .note{border-radius:18px}
+.ah .note.warn{background:#fff4e5;color:#7a3d00}
+.ah .note.fact{background:#e3f4e8;color:#0f5132}
+.ah .box{border:0;border-radius:24px}
+.ah .box h4{font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:15px;font-weight:600;color:var(--ink)}
+.ah .files span{font-family:var(--sans)}
+.ah .timeline .when{font-family:var(--sans);font-weight:600;color:var(--muted);font-size:14px}
+.ah .crumbs a{border:0;color:var(--accent-ink)}
+.ah.ah-footer{background:#f5f5f7;color:#6e6e73;font-size:13px}
+.ah.ah-footer .logo{color:var(--ink)}
+.ah.ah-footer h4{font-family:var(--sans);text-transform:none;letter-spacing:0;font-size:13px;font-weight:600;color:var(--ink)}
+.ah.ah-footer a:hover{color:var(--ink);text-decoration:underline}
+.ah.ah-footer .legal{border-top:1px solid #d2d2d7;color:#86868b}
+.ah .scale b{background:linear-gradient(90deg,#0071e3,#7b4dff);-webkit-background-clip:text;background-clip:text;color:transparent}
