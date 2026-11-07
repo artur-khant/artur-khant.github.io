@@ -185,6 +185,11 @@
 
 .ah .files a.dl{color:var(--accent-ink);font-weight:600}
 .ah .files a.dl:hover{text-decoration:underline}
+.ah .files li.fitem{display:block;padding:14px;border:1px solid var(--line);border-radius:14px}
+.ah .files .fname{display:block;color:inherit;white-space:normal;font-family:inherit;font-size:15px;font-weight:600;line-height:1.35}
+.ah .files .fmeta{display:block;margin-top:4px}
+.ah .files .fbtn{display:flex;width:100%;justify-content:center;margin-top:10px;padding:13px 16px;font-size:16px}
+.ah .box .btn.ghost{white-space:normal;text-align:center;justify-content:center;line-height:1.25}
 
 @media (max-width:560px){.ah .logo i{display:none}}
 
