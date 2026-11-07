@@ -1,8 +1,8 @@
 /* Артур Хант — общие стили. Дизайн подключается отдельным файлом theme-*.css */
 
 .ah{--ink:#17202e;--ink-2:#2a3446;--paper:#f6f3ec;--card:#fffdf8;--line:#e2dccf;--muted:#5a6170;
-  --accent:#b8741a;--accent-ink:#8a5410;--accent-soft:#f4e6cc;--ok:#2f6b4f;
-  --hdr-bg:rgba(246,243,236,.94);--dark:#17202e;--dark-2:#2a3446;--on-dark:#f6f3ec;--on-dark-muted:#c9cfdb;--on-dark-faint:#8d96a8;--on-dark-accent:#e2b26b;--dark-line:#2c3647;
+  --accent:#2f7d4f;--accent-ink:#22603b;--accent-soft:#e2efe5;--em:#6a52b8;--ok:#2f6b4f;
+  --hdr-bg:rgba(246,243,236,.94);--dark:#17202e;--dark-2:#2a3446;--on-dark:#f6f3ec;--on-dark-muted:#c9cfdb;--on-dark-faint:#8d96a8;--on-dark-accent:#8fcfa6;--dark-line:#2c3647;
   --radius:18px;--sans:'Manrope','TildaSans',Arial,sans-serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,monospace;
   font-family:var(--sans);color:var(--ink);background:var(--paper);font-size:17px;line-height:1.6;
   -webkit-font-smoothing:antialiased;text-align:left}
