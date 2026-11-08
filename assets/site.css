@@ -219,11 +219,10 @@
 .ah .rnote{background:var(--accent-soft);color:var(--accent-ink);border-radius:12px;padding:12px 14px;font-weight:600}
 @media (max-width:700px){.ah .rform{grid-template-columns:1fr}.ah .req{padding:26px 18px}}
 /* штатная форма Tilda (блок BF204N) на странице «Услуги» — в стиле сайта */
-.t-rec[data-record-type="678"]{background:var(--paper,#fffdf7)}
+.t-rec[data-record-type="678"]{background:var(--paper,#fffdf7);padding-top:8px!important;padding-bottom:72px!important}
 .t-rec[data-record-type="678"] .t-container{max-width:860px}
-.t-rec[data-record-type="678"] .t-section__title,.t-rec[data-record-type="678"] .t-title{display:none}
-.t-rec[data-record-type="678"] .t-section__descr,.t-rec[data-record-type="678"] .t-descr{display:none}
-.t-rec[data-record-type="678"] .t-section__topwrapper{display:none}
+.t-rec[data-record-type="678"] .t-section__title,.t-rec[data-record-type="678"] .t-section__descr{display:none}
+.t-rec[data-record-type="678"] .t-input-title{display:block!important;padding-bottom:7px}
 .t-rec[data-record-type="678"] .t-form{background:#fff;border:1px solid #e8e3d6;border-radius:28px;padding:36px 32px}
 .t-rec[data-record-type="678"] .t-input-title,.t-rec[data-record-type="678"] .t-name{font-family:'Manrope','TildaSans',Arial,sans-serif!important;font-weight:700!important;color:#1e2a32!important;font-size:15px!important}
 .t-rec[data-record-type="678"] .t-input,.t-rec[data-record-type="678"] .t-select,.t-rec[data-record-type="678"] textarea{font-family:'Manrope','TildaSans',Arial,sans-serif!important;border:1.5px solid #e8e3d6!important;border-radius:14px!important;background:#fffdf7!important;color:#1e2a32!important;font-size:16px!important}
@@ -232,7 +231,7 @@
 .t-rec[data-record-type="678"] .t-submit:hover{background:#0b5d57!important}
 .t-rec[data-record-type="678"] .t-checkbox__control,.t-rec[data-record-type="678"] .t-checkbox__labeltext{font-family:'Manrope','TildaSans',Arial,sans-serif!important;font-size:14px!important;color:#5b6770!important;font-weight:500!important}
 .t-rec[data-record-type="678"] .t-checkbox__indicator{border-color:#0f766e!important;border-radius:6px}
-.t-rec[data-record-type="678"] .t-form__bottom-text,.t-rec[data-record-type="678"] .t-text{font-family:'Manrope','TildaSans',Arial,sans-serif!important;font-size:13px!important;color:#5b6770!important;text-align:center}
+.t-rec[data-record-type="678"] .t678__form-bottom-text{margin-top:16px;font-family:'Manrope','TildaSans',Arial,sans-serif!important;font-size:13px!important;color:#5b6770!important;text-align:center}
 .t-rec[data-record-type="678"] .t-form__successbox{font-family:'Manrope','TildaSans',Arial,sans-serif!important;background:#e1f3f0!important;color:#0b5d57!important;border-radius:14px;font-weight:600}
 @media (max-width:640px){.t-rec[data-record-type="678"] .t-form{padding:24px 18px;border-radius:22px}}
 
