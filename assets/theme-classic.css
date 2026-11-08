@@ -1,2 +1,2 @@
 /* Дизайн 1 — Классика */
-.ah .hero h1 em{color:var(--em)}
+.ah .hero h1 em{color:var(--em)}.ah .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}.ah .btn.primary:hover{background:var(--accent-ink)}.ah .btn.ghost{border-color:var(--accent);color:var(--accent-ink)}.ah .photo .badge{background:var(--sun);color:var(--ink)}.ah .photo .badge span{color:var(--ink-2)}.ah .stat b{color:var(--accent)}.ah .card .chip{background:var(--accent-soft);color:var(--accent-ink)}.ah .card{border-radius:20px}
