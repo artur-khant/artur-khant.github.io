@@ -20,35 +20,47 @@
 | `assets/site.css`, `assets/site.js` | Общие стили и скрипты |
 | `assets/theme-*.css` | Четыре дизайна: классика, пустошь, минимализм, замок |
 | `assets/img/` | Фото автора |
-| `files/` | PDF-справочники для скачивания (30 шт.) |
+| `files/` | PDF-справочники для скачивания (42 шт.) |
 
 ## PDF
 
 | Файл | Справочник |
 |---|---|
-| `files/ai-privacy-1-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-1-v3.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
+| `files/ai-privacy-1-v3-print.pdf` | Приватность ИИ-сервисов — 6 шпаргалок — версия для печати (ч/б) |
 | `files/ai-privacy-2-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
 | `files/ai-privacy-3-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
 | `files/ai-privacy-4-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
 | `files/ai-privacy-5-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
 | `files/ai-privacy-6-v2.pdf` | Приватность ИИ-сервисов — 6 шпаргалок |
 | `files/claude-skills.pdf` | Claude Skills — 142 сценария |
+| `files/claude-skills-print.pdf` | Claude Skills — 142 сценария — версия для печати (ч/б) |
 | `files/claude-connectors.pdf` | Claude Connectors — 100 интеграций |
+| `files/claude-connectors-print.pdf` | Claude Connectors — 100 интеграций — версия для печати (ч/б) |
 | `files/perplexity-1.pdf` | Perplexity — Skills и Connectors |
+| `files/perplexity-1-print.pdf` | Perplexity — Skills и Connectors — версия для печати (ч/б) |
 | `files/perplexity-2.pdf` | Perplexity — Skills и Connectors |
-| `files/local-ai.pdf` | Локальный или облачный ИИ — какое железо нужно |
+| `files/perplexity-2-print.pdf` | Perplexity — Skills и Connectors — версия для печати (ч/б) |
+| `files/local-ai.pdf` | Свой ИИ на компьютере или облачный сервис — путеводитель |
+| `files/local-ai-print.pdf` | Свой ИИ на компьютере или облачный сервис — путеводитель — версия для печати (ч/б) |
 | `files/zaochno-1.pdf` | Заочное и дистанционное обучение. Выпуск 1 |
 | `files/zaochno-2.pdf` | Заочное и дистанционное обучение. Выпуск 2 |
-| `files/usa-exams.pdf` | Экзамены для поступления в топ-университеты США |
+| `files/usa-exams.pdf` | Учёба в ведущих университетах США — путеводитель 2026/27 |
+| `files/usa-exams-print.pdf` | Учёба в ведущих университетах США — путеводитель 2026/27 — версия для печати (ч/б) |
 | `files/ib-certs.pdf` | Сертификации по информационной безопасности — путеводитель для России |
 | `files/ib-certs-print.pdf` | Сертификации по информационной безопасности — путеводитель для России — версия для печати (ч/б) |
 | `files/python-1.pdf` | Python для начинающих — две шпаргалки |
+| `files/python-1-print.pdf` | Python для начинающих — две шпаргалки — версия для печати (ч/б) |
 | `files/python-2.pdf` | Python для начинающих — две шпаргалки |
+| `files/python-2-print.pdf` | Python для начинающих — две шпаргалки — версия для печати (ч/б) |
 | `files/mac-disk.pdf` | 15 программ для анализа места на диске Mac |
 | `files/digital-marketplaces.pdf` | Маркетплейсы цифровых продуктов — 120 площадок |
 | `files/creator-platforms.pdf` | Веб-сервисы для роста автора — 34 платформы |
+| `files/creator-platforms-print.pdf` | Веб-сервисы для роста автора — 34 платформы — версия для печати (ч/б) |
 | `files/article-platforms.pdf` | Площадки для авторских статей — рейтинг 34 |
+| `files/article-platforms-print.pdf` | Площадки для авторских статей — рейтинг 34 — версия для печати (ч/б) |
 | `files/blog-platforms.pdf` | Платформы блогов, СМИ и форумов 2026 |
+| `files/blog-platforms-print.pdf` | Платформы блогов, СМИ и форумов 2026 — версия для печати (ч/б) |
 | `files/usn-2026.pdf` | УСН 2026–2027: изменения для бухгалтера |
 | `files/kino-1.pdf` | Документальное кино о сети, власти и доверии |
 | `files/kino-2.pdf` | Документальное кино о сети, власти и доверии |
